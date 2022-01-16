@@ -3,6 +3,20 @@ body{
 
 }
 
+
+
+#score{
+    font-size: 35px;
+    margin-left: 20px;
+
+}
+
+#time{
+    font-size: 35px;
+    float: right;
+    margin-right: 20px;
+}
+
 h1{
     font-family: 'Special Elite',fantasy;
     color: blue;
@@ -38,16 +52,4 @@ p,span{
     padding-top: 10px;
     font-family: 'special Elite',fantasy;
     font-size: 25px;
-}
-
-#score{
-    font-size: 35px;
-    margin-left: 20px;
-
-}
-
-#time{
-    font-size: 35px;
-    float: right;
-    margin-right: 20px;
 }
